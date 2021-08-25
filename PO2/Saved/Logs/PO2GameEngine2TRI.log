@@ -1410,3 +1410,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.25-21.14.03:434][656]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.08.25-21.14.04:643][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
 [2021.08.25-21.14.05:639][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.25-21.34.21:646][922]LogHttp: Warning: 0000020B8DAC5600: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B892E8B33-4548-B860-C5EF-888E89DAC83C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=89c62ae94a9a6689e4c9dc9b53795794%7Cec54940b1487480baf8c677ecfc87414%7Cfa6cd47a-42a3-4e02-afef-af1d1ac79ab9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.08.25-21.34.21:646][922]LogHttp: Warning: 0000020B8DAC5600: request failed, libcurl error: 0 (No error)
+[2021.08.25-21.34.21:646][922]LogHttp: Warning: 0000020B8DAC5600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20bb855feb0 [can pipeline])
+[2021.08.25-21.34.21:646][922]LogHttp: Warning: 0000020B8DAC5600: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2021.08.25-21.34.21:646][922]LogHttp: Warning: 0000020B8DAC5600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.21.196.32) port 443 (#2))
+[2021.08.25-21.34.21:646][922]LogHttp: Warning: 0000020B8DAC5600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.08.25-21.34.21:646][922]LogHttp: Warning: 0000020B8DAC5600: libcurl info message cache 4 (Closing connection 2)
+[2021.08.25-21.34.21:646][922]LogHttp: Warning: 0000020B8DAC5600: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.08.25-21.34.21:646][922]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B892E8B33-4548-B860-C5EF-888E89DAC83C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=89c62ae94a9a6689e4c9dc9b53795794%7Cec54940b1487480baf8c677ecfc87414%7Cfa6cd47a-42a3-4e02-afef-af1d1ac79ab9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.08.25-23.41.16:248][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.08.25-23.41.16:519][ 90]LogSavePackage: Moving '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Saved/ThirdPersonExampleMap6635B99F449CE694021BCE9C5B182A37.tmp' to '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.25-23.41.16:791][ 90]LogSavePackage: Moving '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Saved/ThirdPersonExampleMap_BuiltData5A3F12AC4CE9431FA7AAB5A670D58223.tmp' to '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.25-23.41.16:945][ 90]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.25-23.41.16:945][ 90]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.25-23.41.16:945][ 90]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.25-23.41.18:320][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
