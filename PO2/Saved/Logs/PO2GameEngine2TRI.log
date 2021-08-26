@@ -812,3 +812,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.26-13.37.22:089][943]LogSlate: Took 0.017064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2021.08.26-13.41.22:104][107]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2021.08.26-13.41.29:305][205]LogRenderer: Reallocating scene render targets to support 808x468 Format 10 NumSamples 1 (Frame:1).
+[2021.08.26-13.56.19:579][ 94]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall9)
+[2021.08.26-13.56.22:962][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2021.08.26-13.56.26:755][221]Cmd: POLY SELECT MEMORY UNION
+[2021.08.26-13.56.30:121][277]Cmd: POLY SELECT MEMORY UNION
+[2021.08.26-13.57.09:295][917]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door2)
+[2021.08.26-13.57.25:085][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.26-13.57.41:883][291]LogSlate: Window 'Door' being destroyed
+[2021.08.26-13.57.41:890][291]LogSlate: Window 'Door' being destroyed
+[2021.08.26-13.57.42:010][291]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-13.57.42:011][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-13.57.43:657][295]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door2)
+[2021.08.26-13.57.46:380][339]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Door.Door
+[2021.08.26-13.58.07:398][415]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.08.26-13.58.20:966][638]Cmd: TRANSACTION UNDO
+[2021.08.26-13.58.20:966][638]LogEditorTransaction: Undo Rotate Actors
+[2021.08.26-13.59.00:513][370]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.08.26-13.59.44:939][726]LogActorFactory: Actor Factory created Cube
+[2021.08.26-13.59.46:743][752]LogActorFactory: Actor Factory created Cube
