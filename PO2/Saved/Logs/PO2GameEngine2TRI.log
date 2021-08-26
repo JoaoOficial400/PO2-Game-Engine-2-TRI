@@ -830,3 +830,190 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.26-13.59.00:513][370]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
 [2021.08.26-13.59.44:939][726]LogActorFactory: Actor Factory created Cube
 [2021.08.26-13.59.46:743][752]LogActorFactory: Actor Factory created Cube
+[2021.08.26-14.00.06:265][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2021.08.26-14.00.07:846][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.08.26-14.00.08:125][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.08.26-14.00.41:890][651]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.26-14.00.42:136][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.26-14.00.42:286][651]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (26 de ago de 2021 08:00:42)
+[2021.08.26-14.00.42:454][651]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.26-14.00.42:461][651]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.26-14.00.42:516][651]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.26-14.00.42:908][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.367119s)
+[2021.08.26-14.00.42:922][651]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.26-14.00.42:954][651]LogPlayLevel: PIE: World Init took: (0.045469s)
+[2021.08.26-14.00.42:965][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.449508s)
+[2021.08.26-14.00.43:253][651]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.08.26-14.00.43:310][651]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.26-14.00.43:310][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.26-14.00.43:310][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.26-14.00.43:310][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.26-14.00.43:310][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.26-14.00.43:310][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.26-14.00.43:310][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.26-14.00.43:310][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.26-14.00.43:310][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.26-14.00.43:311][651]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.26-14.00.43:311][651]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.26-14.00.43:412][651]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.26-14.00.43:412][651]LogAudioMixer: Display: 1: FrontRight
+[2021.08.26-14.00.43:546][651]LogAudioMixer: Display: Using Audio Device Fones de ouvido (High Definition Audio Device)
+[2021.08.26-14.00.43:548][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.26-14.00.43:548][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.26-14.00.43:548][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.26-14.00.43:549][651]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.26-14.00.43:549][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.26-14.00.43:549][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.26-14.00.43:553][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.26-14.00.43:553][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.26-14.00.43:553][651]LogInit: FAudioDevice initialized.
+[2021.08.26-14.00.43:553][651]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.08.26-14.00.43:765][651]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.26-14.00.43:986][651]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.08.26-11.00.43
+[2021.08.26-14.00.44:022][651]LogWorld: Bringing up level for play took: 0.051041
+[2021.08.26-14.00.44:058][651]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.08.26-14.00.44:644][651]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2021.08.26-14.00.44:915][651]PIE: Servidor conectado
+[2021.08.26-14.00.44:917][651]PIE: Play in editor total start time 2,978 seconds.
+[2021.08.26-14.01.14:486][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.26-14.01.14:487][162]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.26-14.01.14:497][162]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-14.01.14:525][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-14.01.14:616][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.26-14.01.14:686][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-14.01.14:769][162]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.26-14.01.14:834][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.26-14.01.14:928][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.26-14.01.15:218][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.26-14.01.15:353][162]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2021.08.26-14.01.15:420][163]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.08.26-14.01.17:548][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.08.26-14.01.18:024][189]LogSavePackage: Moving '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Saved/ThirdPersonExampleMap4FBF8B274317EC3E64E8B4917AB4E6D7.tmp' to '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.26-14.01.18:810][189]LogSavePackage: Moving '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Saved/ThirdPersonExampleMap_BuiltData469B51B249A19B478078EAA7B88ADFF9.tmp' to '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.26-14.01.19:056][189]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.26-14.01.19:056][189]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.26-14.01.19:067][189]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.26-14.01.19:551][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.08.26-14.02.52:049][490]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.26-14.02.52:151][490]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.26-14.03.09:679][750]LogContentBrowser: Attempting asset rename: NewFolder -> MaterialShader
+[2021.08.26-14.03.09:681][750]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.26-14.03.24:866][875]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.08.26-14.03.24:884][875]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.08.26-14.03.42:183][989]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2021.08.26-14.03.42:204][989]LogContentBrowser: End creating deferred item NewMaterial
+[2021.08.26-14.03.53:437][165]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2021.08.26-14.04.08:243][254]LogSlate: Window 'Door' being destroyed
+[2021.08.26-14.04.08:256][254]LogSlate: Window 'Door' being destroyed
+[2021.08.26-14.04.08:277][254]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-14.04.08:277][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-14.04.46:902][415]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPersonBP/MaterialShader/NewMaterial.NewMaterial
+[2021.08.26-14.04.46:953][415]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.04.50:195][415]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.04.50:232][415]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.05.22:039][673]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.05.30:127][756]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.08.26-14.05.32:201][777]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 6
+[2021.08.26-14.05.34:926][801]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.05.34:935][801]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.05.34:976][801]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.05.35:012][801]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.05.38:291][826]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.08.26-14.05.40:619][842]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 12
+[2021.08.26-14.05.43:502][856]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.05.44:804][866]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.08.26-14.05.46:662][879]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.05.49:340][895]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.05.51:587][908]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.08.26-14.05.53:959][922]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 6
+[2021.08.26-14.06.04:098][971]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.06.04:112][971]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.06.09:338][ 24]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.06.09:388][ 24]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.06.11:647][ 47]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.06.11:666][ 47]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.06.12:337][ 54]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.06.12:352][ 54]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.06.23:454][ 57]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.06.23:474][ 57]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.06.26:934][ 61]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.08.26-14.06.30:335][ 61]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.06.30:349][ 61]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.06.33:181][ 89]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.06.33:196][ 89]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.06.34:353][101]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.06.34:375][101]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.06.34:427][101]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.26-14.06.36:176][122]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.08.26-14.06.39:988][148]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 12
+[2021.08.26-14.06.42:557][163]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.06.44:113][173]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.08.26-14.06.49:391][209]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.06.50:787][222]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.06.50:828][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.06.56:370][278]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.08.26-14.06.58:045][294]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.06.58:064][294]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.07.00:234][316]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.07.00:255][316]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.07.00:267][316]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.26-14.07.12:172][406]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.07.12:188][406]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.07.12:204][406]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.26-14.07.17:274][458]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.07.17:293][458]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.07.19:524][480]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.07.19:544][480]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.07.23:893][523]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.07.23:921][523]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.07.30:831][594]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.07.30:854][594]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.07.33:503][621]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.07.33:530][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.26-14.07.33:679][621]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.26-14.07.38:736][630]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.08.26-14.07.42:707][660]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.07.47:788][711]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.07.47:796][711]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.08.26-14.07.47:802][711]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.07.47:833][711]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.08.26-14.07.52:099][747]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 17
+[2021.08.26-14.07.54:791][758]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 16
+[2021.08.26-14.07.56:642][771]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 15
+[2021.08.26-14.07.58:434][785]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 14
+[2021.08.26-14.08.00:960][794]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.08.26-14.08.03:546][812]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 12
+[2021.08.26-14.08.05:597][824]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.08.07:241][834]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.08.26-14.08.09:435][851]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.08.12:508][861]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.08.13:719][868]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.08.26-14.08.18:193][886]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 6
+[2021.08.26-14.08.20:887][900]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 5
+[2021.08.26-14.08.22:264][911]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 4
+[2021.08.26-14.08.22:411][912]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.08.26-14.08.22:411][912]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.08.26-14.08.22:411][912]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.26-14.08.22:411][912]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.26-14.08.23:446][920]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 3
+[2021.08.26-14.08.25:648][933]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
+[2021.08.26-14.08.28:917][960]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 1
+[2021.08.26-14.09.00:630][304]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.09.00:650][304]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.09.00:657][304]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.08.26-14.09.16:683][435]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 12
+[2021.08.26-14.09.19:873][450]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.09.21:329][460]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.08.26-14.09.23:532][477]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.09.26:185][492]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.09.27:468][501]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.08.26-14.09.29:963][517]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 6
+[2021.08.26-14.09.32:456][529]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 5
+[2021.08.26-14.09.33:660][538]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 4
+[2021.08.26-14.09.33:686][538]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.08.26-14.09.33:686][538]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.08.26-14.09.33:686][538]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.26-14.09.33:686][538]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.26-14.09.34:880][547]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 3
+[2021.08.26-14.09.37:173][560]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
+[2021.08.26-14.09.40:146][571]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 1
