@@ -1017,3 +1017,295 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.26-14.09.34:880][547]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 3
 [2021.08.26-14.09.37:173][560]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
 [2021.08.26-14.09.40:146][571]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 1
+[2021.08.26-14.11.17:415][808]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.08.26-14.11.17:599][808]LogSavePackage: Moving '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Saved/ThirdPersonExampleMap_Auto199E107E048E11B481369BEA7B5CED25F.tmp' to '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.08.26-14.11.17:616][808]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.310
+[2021.08.26-14.11.17:616][808]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.310
+[2021.08.26-14.11.30:882][876]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.26-14.13.48:996][760]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.13.49:169][761]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.13.49:182][761]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.08.26-14.14.06:963][915]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.08.26-14.14.09:854][930]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.14.11:162][939]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.14.13:346][954]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.08.26-14.14.16:277][968]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 6
+[2021.08.26-14.14.17:741][979]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 5
+[2021.08.26-14.14.20:647][994]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 4
+[2021.08.26-14.14.22:949][  7]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 3
+[2021.08.26-14.14.24:971][ 16]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
+[2021.08.26-14.14.24:980][ 16]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.08.26-14.14.24:980][ 16]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.08.26-14.14.24:980][ 16]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.26-14.14.24:980][ 16]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.26-14.14.32:860][ 91]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.14.33:108][ 92]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.14.33:134][ 92]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.08.26-14.14.42:945][194]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.14.46:656][214]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.14.50:871][229]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.08.26-14.14.53:097][243]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.14.55:406][252]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.14.58:252][269]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.08.26-14.15.02:593][307]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.15.08:689][366]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.15.22:745][447]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.15.27:691][501]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.15.50:570][766]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.15.51:806][779]LogEditorTransaction: Undo Editor de Materiais: Excluir
+[2021.08.26-14.15.51:810][779]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.15.51:821][779]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.15.52:071][781]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2021.08.26-14.15.52:074][781]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.15.52:101][781]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.15.56:175][823]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.16.01:176][848]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.08.26-14.16.01:978][851]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.08.26-14.16.04:318][864]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.16.05:843][873]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.16.10:868][919]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.08.26-14.16.12:222][931]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.16.19:922][ 11]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.16.23:499][ 29]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.08.26-14.16.25:434][ 43]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.16.27:891][ 54]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.16.31:201][ 69]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.08.26-14.16.33:446][ 84]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 6
+[2021.08.26-14.16.35:536][ 95]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 5
+[2021.08.26-14.16.37:420][107]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 4
+[2021.08.26-14.16.40:636][121]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 3
+[2021.08.26-14.16.42:052][132]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
+[2021.08.26-14.16.42:285][133]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.08.26-14.16.42:286][133]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.08.26-14.16.42:286][133]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.26-14.16.42:286][133]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.26-14.16.50:467][205]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.16.50:477][205]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.16.55:546][259]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.16.56:125][267]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.17.01:169][290]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.17.02:980][303]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.08.26-14.17.05:561][321]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 6
+[2021.08.26-14.17.12:033][387]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.17.12:332][388]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.17.12:343][388]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.08.26-14.17.14:256][408]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.17.23:380][496]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.17.26:281][512]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.08.26-14.17.28:360][525]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.17.34:731][592]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.17.37:712][620]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.17.47:929][697]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.17.49:095][708]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.17.52:188][724]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.08.26-14.17.54:661][740]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.17.57:762][763]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.17.59:185][776]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.17.59:196][776]LogMaterial: Warning: [AssetLog] /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.26-14.17.59:196][776]LogMaterial: Display: 	(Node If) Missing If AGreaterThanB input
+[2021.08.26-14.17.59:201][776]MaterialEditorStats: Error: [SM5] (Node If) Missing If AGreaterThanB input
+[2021.08.26-14.17.59:972][776]LogSlate: Took 0.449982 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.26-14.18.06:002][832]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
+[2021.08.26-14.18.14:319][906]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.18.14:323][906]LogMaterial: Warning: [AssetLog] /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.26-14.18.14:323][906]LogMaterial: Display: 	(Node If) Missing If AGreaterThanB input
+[2021.08.26-14.19.11:227][186]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.19.11:231][186]LogMaterial: Warning: [AssetLog] /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.26-14.19.11:231][186]LogMaterial: Display: 	(Node If) Missing If AGreaterThanB input
+[2021.08.26-14.19.11:233][186]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.19.11:237][186]LogMaterial: Warning: [AssetLog] /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.26-14.19.11:237][186]LogMaterial: Display: 	(Node If) Missing If ALessThanB input
+[2021.08.26-14.19.11:243][186]MaterialEditorStats: Error: [SM5] (Node If) Missing If ALessThanB input
+[2021.08.26-14.19.29:046][333]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.19.29:050][333]LogMaterial: Warning: [AssetLog] /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.26-14.19.29:050][333]LogMaterial: Display: 	(Node If) Missing If ALessThanB input
+[2021.08.26-14.19.29:052][333]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.19.29:130][334]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.20.09:027][598]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.20.09:053][598]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.20.15:198][665]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2021.08.26-14.20.31:049][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.20.31:049][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.20.31:049][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.08.26-14.20.31:049][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 6
+[2021.08.26-14.20.31:049][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 5
+[2021.08.26-14.20.31:049][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 4
+[2021.08.26-14.20.31:068][665]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.20.31:152][665]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.20.31:594][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 21
+[2021.08.26-14.20.31:594][665]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.08.26-14.20.31:641][665]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.26-14.20.32:801][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 22
+[2021.08.26-14.20.34:527][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 21
+[2021.08.26-14.20.35:100][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 20
+[2021.08.26-14.20.36:226][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 19
+[2021.08.26-14.20.37:347][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 18
+[2021.08.26-14.20.37:913][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 17
+[2021.08.26-14.20.39:652][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 16
+[2021.08.26-14.20.40:776][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 15
+[2021.08.26-14.20.41:337][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 14
+[2021.08.26-14.20.41:337][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.08.26-14.20.41:727][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 12
+[2021.08.26-14.20.41:733][665]TextureStreamingBuild: Display: Compiling optional shaders took 10.112 seconds.
+[2021.08.26-14.20.42:845][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.08.26-14.20.53:209][665]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
+[2021.08.26-14.20.55:783][665]LogSavePackage: Moving '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Saved/NewMaterial78BDF56B4DE793A65CDA0D9D307E5230.tmp' to '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Content/ThirdPersonBP/MaterialShader/NewMaterial.uasset'
+[2021.08.26-14.20.55:831][665]AssetCheck: New page: Asset Save: NewMaterial
+[2021.08.26-14.20.55:831][665]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/MaterialShader/NewMaterial.NewMaterial
+[2021.08.26-14.20.55:923][665]MaterialEditorStats: Base pass shader: 121 instructions
+[2021.08.26-14.20.55:923][665]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2021.08.26-14.20.55:923][665]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.26-14.20.55:923][665]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.26-14.20.55:923][665]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.26-14.21.55:273][980]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.21.55:351][980]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.21.55:353][980]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.21.55:488][981]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.08.26-14.21.57:613][  1]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.22.08:442][ 97]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 43
+[2021.08.26-14.22.10:929][121]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.22.16:539][180]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.22.17:573][194]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 43
+[2021.08.26-14.22.27:530][296]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 42
+[2021.08.26-14.22.30:021][320]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.22.30:024][320]LogMaterial: Warning: [AssetLog] /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.26-14.22.30:024][320]LogMaterial: Display: 	(Node If) Missing If A input
+[2021.08.26-14.22.30:027][320]MaterialEditorStats: Error: [SM5] (Node If) Missing If A input
+[2021.08.26-14.22.32:879][352]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 34
+[2021.08.26-14.22.36:773][390]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.22.36:778][390]LogMaterial: Warning: [AssetLog] /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.26-14.22.36:778][390]LogMaterial: Display: 	(Node If) Missing If A input
+[2021.08.26-14.22.41:398][438]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.22.56:849][571]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 33
+[2021.08.26-14.23.00:187][586]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 32
+[2021.08.26-14.23.03:100][599]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 31
+[2021.08.26-14.23.04:845][609]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 30
+[2021.08.26-14.23.07:009][623]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 29
+[2021.08.26-14.23.09:531][637]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 28
+[2021.08.26-14.23.15:545][697]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 27
+[2021.08.26-14.23.18:132][723]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 26
+[2021.08.26-14.23.22:536][766]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.23.28:533][822]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 33
+[2021.08.26-14.23.33:143][838]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 32
+[2021.08.26-14.23.36:200][852]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 31
+[2021.08.26-14.23.37:733][862]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 30
+[2021.08.26-14.23.40:391][875]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 29
+[2021.08.26-14.23.43:096][890]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 28
+[2021.08.26-14.23.45:014][899]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 27
+[2021.08.26-14.23.50:578][950]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 26
+[2021.08.26-14.23.52:561][964]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 25
+[2021.08.26-14.23.53:968][974]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 24
+[2021.08.26-14.23.54:019][974]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.08.26-14.23.54:019][974]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.08.26-14.23.54:019][974]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.26-14.23.54:019][974]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.26-14.24.09:363][ 54]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 14
+[2021.08.26-14.24.20:843][120]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 4
+[2021.08.26-14.24.36:868][248]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.24.36:896][248]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.24.36:982][249]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.24.37:080][249]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.08.26-14.24.48:684][335]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.08.26-14.24.53:779][374]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.24.58:585][410]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.25.04:870][470]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.07:274][494]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2021.08.26-14.25.07:278][494]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.07:288][494]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.07:501][496]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2021.08.26-14.25.07:517][496]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.07:527][496]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.08:297][504]LogEditorTransaction: Undo Mover Nó
+[2021.08.26-14.25.08:301][504]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.09:103][512]LogEditorTransaction: Undo Editor de Materiais: Nova Chamada de Função
+[2021.08.26-14.25.09:107][512]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.09:119][512]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.17:004][581]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.21:416][626]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.23:371][646]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.29:003][707]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.29:016][707]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.32:266][740]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.25.34:060][758]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.34:095][758]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.25.43:667][835]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.25.47:620][849]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.08.26-14.25.50:246][862]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.26.05:333][972]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.26.11:830][  5]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.26.11:834][  5]LogMaterial: Warning: [AssetLog] /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.26-14.26.11:834][  5]LogMaterial: Display: 	(Node If) Missing If A input
+[2021.08.26-14.26.11:836][  5]MaterialEditorStats: Error: [SM5] (Node If) Missing If A input
+[2021.08.26-14.26.34:366][244]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.26.36:120][261]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.26.50:997][361]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.26.51:595][368]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.26.52:498][376]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.26.52:506][376]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.26-14.26.56:908][420]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.26.58:065][431]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.26.58:977][440]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.27.04:350][484]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.27.04:818][488]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.27.06:047][500]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.27.06:057][500]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.26-14.27.36:467][536]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.27.39:501][552]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.08.26-14.27.42:719][566]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.27.44:706][578]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.27.49:058][594]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.08.26-14.27.52:744][610]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 6
+[2021.08.26-14.28.06:138][659]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 5
+[2021.08.26-14.28.06:863][665]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.28.08:978][686]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.28.17:345][771]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.28.18:603][784]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.28.18:613][784]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.26-14.28.25:180][791]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.26-14.28.25:268][791]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.26-14.28.25:334][791]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.26-14.28.28:114][818]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.28.28:122][818]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.26-14.28.35:881][884]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.08.26-14.28.38:612][900]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 10
+[2021.08.26-14.28.43:743][913]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.08.26-14.28.46:165][921]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 8
+[2021.08.26-14.28.50:323][936]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.08.26-14.28.54:452][955]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 6
+[2021.08.26-14.29.04:067][ 35]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2021.08.26-14.29.05:390][ 35]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.29.05:484][ 35]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.08.26-14.29.08:626][ 35]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 23
+[2021.08.26-14.29.08:626][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.08.26-14.29.08:641][ 35]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.26-14.29.09:769][ 35]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 24
+[2021.08.26-14.29.11:462][ 35]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 23
+[2021.08.26-14.29.13:706][ 35]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 22
+[2021.08.26-14.29.14:828][ 35]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 21
+[2021.08.26-14.29.15:950][ 35]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 20
+[2021.08.26-14.29.17:079][ 35]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 19
+[2021.08.26-14.29.19:319][ 35]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 18
+[2021.08.26-14.29.20:431][ 35]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 17
+[2021.08.26-14.29.21:556][ 35]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 16
+[2021.08.26-14.29.22:117][ 35]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 15
+[2021.08.26-14.29.24:276][ 35]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 14
+[2021.08.26-14.29.24:285][ 35]TextureStreamingBuild: Display: Compiling optional shaders took 15.650 seconds.
+[2021.08.26-14.29.33:732][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.08.26-14.29.33:779][ 35]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 4
+[2021.08.26-14.29.40:918][ 35]LogSavePackage: Moving '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Saved/NewMaterialB3BB4CE64CCA69F849A621BEF7D2B1C8.tmp' to '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Content/ThirdPersonBP/MaterialShader/NewMaterial.uasset'
+[2021.08.26-14.29.40:987][ 35]AssetCheck: New page: Asset Save: NewMaterial
+[2021.08.26-14.29.40:987][ 35]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/MaterialShader/NewMaterial.NewMaterial
+[2021.08.26-14.29.41:069][ 35]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.08.26-14.29.41:069][ 35]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.08.26-14.29.41:069][ 35]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.26-14.29.41:069][ 35]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.26-14.29.41:069][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.26-14.29.50:522][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.08.26-14.29.50:677][147]LogSavePackage: Moving '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Saved/ThirdPersonExampleMapE2DBC04A40E48E3E2D7A948BB27C4628.tmp' to '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.26-14.29.50:981][147]LogSavePackage: Moving '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Saved/ThirdPersonExampleMap_BuiltData514D00414C57212FC53551AB39D55EB2.tmp' to '../../../../../../../Users/User/Desktop/PO2-Game-Engine-2-TRI/PO2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.26-14.29.51:014][147]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.26-14.29.51:014][147]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.26-14.29.51:014][147]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.26-14.29.52:692][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.08.26-14.29.53:039][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.26-14.29.55:725][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
